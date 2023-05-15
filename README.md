@@ -1,4 +1,4 @@
-## Hello🦕
+## Hello 🦕
 My name is Aleksandra Nikiforova. I am currently a student at the Apple Developer Academy in Naples, Italy. I'm starting my journey in developing applications in the Swift language.
 
 ## Values
