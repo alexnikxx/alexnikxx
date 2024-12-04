@@ -1,7 +1,7 @@
 ## Hello 🦕
-My name is Aleksandra Nikiforova. I am currently a student at the Apple Developer Academy in Naples, Italy. I'm starting my journey in developing applications in the Swift language.
+I’m Sasha, an iOS-developer. My professional journey began in October’22 at the Apple Developer Academy in Naples, where I was introduced to the brave new world of app development. I’m currently looking for a new role where I can grow, refine my skills, and continue to improve.
 
 ## Values
-I value constant development and love for what you do, which is why I am now enjoying learning SwiftUI. I started learning from scratch in September 2022, and now I continue to improve my skills in creating a user-friendly product with a focus on creative idea and intuitive interface.
+I believe a good developer brings everything people need into one place, freeing them from the endless search for a better experience by creating something simple and intuitive. That’s the kind of professional I aspire to be. People are the greatest strength in this world, and I look forward to making new connections so we can inspire and support each other to create amazing things.
 
-You'll find my personal projects, open-source contributions, and experiments on my GitHub profile.
+Here you'll find my personal projects, open-source contributions, and experiments so feel free to look around and connect!
